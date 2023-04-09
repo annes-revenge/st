@@ -97,7 +97,7 @@ char *termname = "st-256color";
 unsigned int tabspaces = 8;
 
 /* bg opacity */
-float alpha = 0.69;
+float alpha = 0.62;
 
 /* Terminal colors (16 first used in escape sequence) */
 // colors in header file
